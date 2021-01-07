@@ -5,6 +5,9 @@
 后端项目始于2021/01/06
 前端代码github：https://github.com/TheWayForward/HongyanAsst.
 
+后端java代码项目位于master分支中
+服务器和数据库部分信息位于main分支中
+
 ## Introduction
 
 服务于HongyanAsst项目的后端项目
