@@ -3,7 +3,7 @@ spring:
     driverClassName: com.mysql.cj.jdbc.Driver
     url: "jdbc:mysql://82.156.64.201:3306/test?autoreconnect=true"
     username: "walker"
-    password: "walker"
+    password: "xxxxxx"
 
 
 mybatis:
