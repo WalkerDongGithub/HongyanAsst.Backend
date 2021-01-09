@@ -1,0 +1,24 @@
+spring:
+# 实际使用的数据源
+#  datasource:
+#    driverClassName:  com.mysql.cj.jdbc.Driver
+#    url:              "jdbc:mysql://172.21.0.7:3306/hongyan?autoreconnect=true&serverTimezone=UTC&useUnicode=true&characterEncoding=utf-8"
+#    username:         "root"
+#    password:         "WalkerDatabase2021!!"
+
+  datasource:
+    driverClassName:  com.mysql.cj.jdbc.Driver
+    url:              "jdbc:mysql://82.156.64.201:3306/test?autoreconnect=true&serverTimezone=UTC&useUnicode=true&characterEncoding=utf-8"
+    username:         "walker"
+    password:         "walker"
+
+#mybatis:
+#  mapper-locations: classpath:mapper/*.xml
+
+
+server:
+  port: 6060
+
+
+
+
